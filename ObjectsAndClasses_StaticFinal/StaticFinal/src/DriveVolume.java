@@ -1,0 +1,3 @@
+public enum DriveVolume {
+    VOL_64GB, VOL_128GB, VOL_256GB, VOL_512GB, VOL_1024GB, VOL_2048GB
+}
